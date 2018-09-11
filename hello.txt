@@ -1,2 +1,0 @@
-Hello friend. Good night. Why are you still awake?
-public static void main
